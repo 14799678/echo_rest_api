@@ -1,7 +1,7 @@
 package subscribers
 
 import (
-	"github.com/dzungtran/echo-rest-api/pkg/hook"
+	"github.com/14799678/echo_rest_api/pkg/hook"
 )
 
 type UserSubscriber struct {

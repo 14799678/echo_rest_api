@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
+	"github.com/14799678/echo_rest_api/pkg/constants"
 	"github.com/labstack/echo/v4"
 )
 

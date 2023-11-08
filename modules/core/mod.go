@@ -1,11 +1,11 @@
 package core
 
 import (
-	"github.com/dzungtran/echo-rest-api/config"
-	"github.com/dzungtran/echo-rest-api/modules/core/handlers"
-	"github.com/dzungtran/echo-rest-api/modules/core/repositories"
-	"github.com/dzungtran/echo-rest-api/modules/core/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
+	"github.com/14799678/echo_rest_api/config"
+	"github.com/14799678/echo_rest_api/modules/core/handlers"
+	"github.com/14799678/echo_rest_api/modules/core/repositories"
+	"github.com/14799678/echo_rest_api/modules/core/usecases"
+	"github.com/14799678/echo_rest_api/pkg/middlewares"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/dig"
 )

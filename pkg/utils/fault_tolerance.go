@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/14799678/echo_rest_api/pkg/logger"
 )
 
 func GetFunctionName(i interface{}) string {

@@ -1,9 +1,9 @@
 package contexts
 
 import (
-	coreDomains "github.com/dzungtran/echo-rest-api/modules/core/domains"
-	projectDomains "github.com/dzungtran/echo-rest-api/modules/projects/domains"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
+	coreDomains "github.com/14799678/echo_rest_api/modules/core/domains"
+	projectDomains "github.com/14799678/echo_rest_api/modules/projects/domains"
+	"github.com/14799678/echo_rest_api/pkg/constants"
 	"github.com/labstack/echo/v4"
 )
 

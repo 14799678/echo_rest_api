@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/Masterminds/squirrel"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/14799678/echo_rest_api/pkg/constants"
+	"github.com/14799678/echo_rest_api/pkg/contexts"
+	"github.com/14799678/echo_rest_api/pkg/utils"
 )
 
 type options struct {
